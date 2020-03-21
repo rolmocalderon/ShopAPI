@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Satisfyer",
+            "price": "44.99",
+            "description": "Satisfyer, un juguete sexual"
+        },
+        {
+            "id": 1,
+            "name": "Neo Plus",
+            "price": "24.99",
+            "description": "Neo Plus, un juguete sexual"
+        },
+        {
+            "id": 1,
+            "name": "Pinguin",
+            "price": "34.99",
+            "description": "Pinguin, un juguete sexual"
+        },
+        {
+            "id": 1,
+            "name": "Partner Plus Remote",
+            "price": "30.99",
+            "description": "Partner Plus Remote, un juguete sexual"
+        },
+        {
+            "id": 1,
+            "name": "Partner Multifun 2",
+            "price": "31.99",
+            "description": "Partner Multifun 2, un juguete sexual"
+        }
+    ]
+}
