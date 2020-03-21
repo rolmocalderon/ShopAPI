@@ -38,5 +38,10 @@
             "description": "Partner Multifun 2, un juguete sexual",
             "image": "partner_multifun_2.png"
         }
+    ],
+    "purchases": [
+        {
+            "product_Id": 5
+        }
     ]
 }
