@@ -1,47 +1,5 @@
 {
     "info": {
-        "title": "La página de Alba"
-    },
-    "products": [
-        {
-            "id": 1,
-            "name": "Satisfyer",
-            "price": "44.99",
-            "description": "Satisfyer, un juguete sexual",
-            "image": "satisfayer.png"
-        },
-        {
-            "id": 2,
-            "name": "Neo Plus",
-            "price": "24.99",
-            "description": "Neo Plus, un juguete sexual",
-            "image": "neo_plus.png"
-        },
-        {
-            "id": 3,
-            "name": "Pinguin",
-            "price": "34.99",
-            "description": "Pinguin, un juguete sexual",
-            "image": "pinguino.png"
-        },
-        {
-            "id": 4,
-            "name": "Partner Plus Remote",
-            "price": "30.99",
-            "description": "Partner Plus Remote, un juguete sexual",
-            "image": "partner_plus_remote.png"
-        },
-        {
-            "id": 5,
-            "name": "Partner Multifun 2",
-            "price": "31.99",
-            "description": "Partner Multifun 2, un juguete sexual",
-            "image": "partner_multifun_2.png"
-        }
-    ],
-    "purchases": [
-        {
-            "product_Id": 5
-        }
-    ]
+        "title": "Joguines sexuals"
+    }
 }
